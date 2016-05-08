@@ -47,3 +47,5 @@ mv eigen-eigen-*/Eigen ./src
 cd toolkits/collaborative_filtering
 make 
 cd ../../
+
+echo "Done!"
